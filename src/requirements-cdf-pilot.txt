@@ -1,0 +1,8 @@
+pandas
+pypdf
+pdfplumber
+pypdfium2
+Pillow
+rapidocr-onnxruntime==1.4.4
+jupyterlab
+ipykernel
