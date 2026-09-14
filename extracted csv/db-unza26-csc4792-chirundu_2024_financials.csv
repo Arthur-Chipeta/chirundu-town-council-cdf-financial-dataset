@@ -1,0 +1,124 @@
+﻿fiscal_year|record_type|section|line_item|amount_current_zmw|amount_prior_zmw|approved_budget_zmw|actual_zmw|variance_zmw|variance_pct|is_material_variance|notes|source_document|source_page
+2024|receipt||Local Taxes|486568|325162|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|receipt||Fees and Charges|20310710|19134695|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|receipt||Licences|371877|220900|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|receipt||Levies|186848|163188|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|receipt||Permits|2073393|1522608|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|receipt||Local Government Equalisation Fund|9393949|8833102|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|receipt||Constituency Development Fund|10675337|27261470|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|receipt||Other Grants|2694736|12020|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|receipt||Borrowings|0|0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|receipt||Commercial Venture|200401|77959|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|receipt||Sector Grant (Devolved Functions)|8154778|0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|receipt||Other Receipts|387000|317359|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|payment||Personal Emoluments|18947844|14807445|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|payment||Use of Goods and Services|17169941|15921998|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|payment||Financial Charges|0|0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|payment||Social Benefits|7662922|9500657|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|payment||Non-financial Assets Acquisition|18554528|15097519|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|payment||Financial Assets|307185|5964128|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|payment||Loan Repayments|0|0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|payment||Other Payments|1386598|0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12
+2024|budget_vs_actual|Receipt|Local Taxes|||934214|486568|-447646|-48|True||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13
+2024|budget_vs_actual|Receipt|Fees and Charges|||25175997|20310710|-4865288|-19|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13
+2024|budget_vs_actual|Receipt|Licences|||355050|371877|16827|5|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13
+2024|budget_vs_actual|Receipt|Levies|||133900|186848|52948|40|True||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13
+2024|budget_vs_actual|Receipt|Permits|||2007550|2073393|65843|3|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13
+2024|budget_vs_actual|Receipt|Local Government Equalisation Fund|||9708895|9393949|-314947|-3|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13
+2024|budget_vs_actual|Receipt|Constituency Development Fund|||30635642|10675337|-19960305|-65|True||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13
+2024|budget_vs_actual|Receipt|Other Grants|||2694736|2694736|0|0|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13
+2024|budget_vs_actual|Receipt|Commercial Venture|||496090|200401|-295689|-60|True||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13
+2024|budget_vs_actual|Receipt|Sector Grant (Devolved Functions)|||6620111|8154778|1534667|23|True||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13
+2024|budget_vs_actual|Receipt|Other Receipts|||1000000|387000|-613000|-61|True||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13
+2024|budget_vs_actual|Payment|Personal Emoluments|||21037626|18947844|-2089782|-10|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13
+2024|budget_vs_actual|Payment|Use of Goods and Services|||18363859|17169941|-1193918|-7|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13
+2024|budget_vs_actual|Payment|Social Benefits|||8149081|7662922|-486159|-6|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13
+2024|budget_vs_actual|Payment|Non-Financial Assets Acquisition|||28719158|18554528|-10164630|-35|True||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13
+2024|budget_vs_actual|Payment|Financial Assets|||3492463|307185|-3185278|-91|True||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13
+2024|budget_vs_actual|Payment|Other Payments|||0|1386598|1386598|0|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13
+2024|lgef|LGEF Monthly Funding|January|748997.0|741459.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|lgef|LGEF Monthly Funding|February|781484.0|697977.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|lgef|LGEF Monthly Funding|March|752174.0|722309.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|lgef|LGEF Monthly Funding|April|785292.0|737309.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|lgef|LGEF Monthly Funding|May|785296.0|745001.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|lgef|LGEF Monthly Funding|June|782288.0|738251.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|lgef|LGEF Monthly Funding|July|859214.0|749001.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|lgef|LGEF Monthly Funding|August|787300.0|749001.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|lgef|LGEF Monthly Funding|September|786304.0|750809.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|lgef|LGEF Monthly Funding|October|788967.0|749001.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|lgef|LGEF Monthly Funding|November|788479.0|708676.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|lgef|LGEF Monthly Funding|December|748154.0|744309.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|lgef|LGEF Summary|Operational Expenditure (100%)|9393949.0|7066482.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|lgef|LGEF Summary|Capital Expenditure (prior-year funds)|795958.0|2377040.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|lgef|LGEF Summary|LGEF - Total Funding|9393949.0|8833102.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|cdf|Funding|Chirundu Constituency Funding|10000000|27261470|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|cdf|Loan Repayments|CDF Loan Repayments|675337|241963|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|cdf|Infrastructure Development|Construction of Primary Schools|5761852|5878137|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|cdf|Infrastructure Development|Construction of Secondary Schools|282157|0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|cdf|Infrastructure Development|Construction of Bridges|35430|66829|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|cdf|Infrastructure Development|Construction of Health Post|3760421|571208|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|cdf|Infrastructure Development|Construction of Boreholes|3659951|2415981|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|cdf|Infrastructure Development|Construction of Staff House|2203440|902984|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|cdf|Infrastructure Development|Construction of Feeder Roads|29128|599899|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|cdf|Infrastructure Development|Construction of Skills Center|284901|0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|cdf|Youth and Women Empowerment|Youth and Women Empowerment Grant|2374071|2118970|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|cdf|Youth and Women Empowerment|Youth and Women Empowerment Loans|0|5964128|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|cdf|Secondary & Skills Bursaries|Secondary & Skills Development Bursaries|3097391|7381687|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|cdf|Administrative Costs|CDF Administration|1365827|2925949|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|cdf|Disaster Contingency|Disaster Contingency Costs|644564|0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|cdf|Other Payments|Other Payments (Mopped Funds)|1386598|0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29
+2024|revenue_detail|Local Taxes|Residential Rates|85470|196627|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|25
+2024|revenue_detail|Local Taxes|Industrial / Commercial Rates|208908|77650|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|25
+2024|revenue_detail|Local Taxes|Personal Levy|42190|50885|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|25
+2024|revenue_detail|Local Taxes|Grant in Lieu of Rates|150000|0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|25
+2024|revenue_detail|Fees and Charges|Consent Fees|0|2050|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Survey Fees|31350|85600|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Building Inspection Fees|24535|10900|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Plan Scrutiny Fees|38581|25043|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Rentals/Lease of Council Properties|500|0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Application Form Fees|0|119860|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Search Fees|50|0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Market Fees|41539|26972|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Motor Vehicle Fees|19535733|17835414|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Bus Station Fees|22104|20460|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Affidavit Fees|0|500|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Refuse Disposal Fees|109447|68386|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Notice of Marriage|16950|11090|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Abbattoir/Meat Inspection Fees|0|142|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Communication Mast Levy|25000|29330|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Land Record|0|3000|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Billboard and Banner|58450|47960|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Lease of Council Transport|182485|0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Illegal Vending Fees|900|450|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Penalties|33330|68671|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Change of Ownership of Plot|4000|0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Change of Land Use|21850|19000|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Ntemba Fees|2000|1400|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Truck Parking|0|64950|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Registration of Clubs and Societies|12350|104090|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Ablution Fees|63336|106123|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Electricity & Water Connections|870|5805|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Fees and Charges|Other Fees and Charges|10250|5805|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Land Development Charges|Service Charges - Residential Plots|72200|312500|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Land Development Charges|Service Charges - Industrial Plots|2900|59950|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26
+2024|revenue_detail|Licences|Occupancy Licence|5000|8000|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|27
+2024|revenue_detail|Licences|Hawkers Licence|3600|6100|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|27
+2024|revenue_detail|Licences|Lodger Licence|1800|5400|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|27
+2024|revenue_detail|Licences|Liquor Licence|193440|115300|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|27
+2024|revenue_detail|Licences|Firearm and Ammunition Licence|28135|19950|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|27
+2024|revenue_detail|Licences|Petroleum Licence|136330|66130|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|27
+2024|revenue_detail|Licences|Dog Licence|3572|20|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|27
+2024|revenue_detail|Levies|Livestock Levy|55032|21590|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28
+2024|revenue_detail|Levies|Pole Levy|270|150|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28
+2024|revenue_detail|Levies|Charcoal Levy|1113|0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28
+2024|revenue_detail|Levies|Sand Levy|59735|55800|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28
+2024|revenue_detail|Levies|Crop Levy|26319|39786|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28
+2024|revenue_detail|Levies|Miscellaneous Levies|43709|43255|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28
+2024|revenue_detail|Permits|Health Permit|411867|229570|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28
+2024|revenue_detail|Permits|Burial Permits and Grave Sites|15200|5198|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28
+2024|revenue_detail|Permits|Fire Certificates|425644|358290|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28
+2024|revenue_detail|Permits|Public Permits (Social Gatherings)|1350|8650|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28
+2024|revenue_detail|Permits|Distributor Permit|66750|69450|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28
+2024|revenue_detail|Permits|Herbalist Permit|720|870|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28
+2024|revenue_detail|Permits|Business Permit|1060589|829316|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28
+2024|revenue_detail|Permits|Other Permits|91274|8500|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28

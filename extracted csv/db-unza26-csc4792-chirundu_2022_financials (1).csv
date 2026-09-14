@@ -1,0 +1,130 @@
+﻿fiscal_year|record_type|section|line_item|amount_current_zmw|amount_prior_zmw|approved_budget_zmw|actual_zmw|variance_zmw|variance_pct|is_material_variance|notes|source_document|source_page
+2022|receipt||Local Taxes|695694.0|93816.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|receipt||Fees and Charges|8638097.0|7210836.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|receipt||Licences|183360.0|91625.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|receipt||Levies|140638.0|121641.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|receipt||Permits|1164859.0|903469.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|receipt||Local Government Equalisation Fund|8731522.0|8982013.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|receipt||Constituency Development Fund|23739911.0|1600000.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|receipt||Other Grants|277720.0|99851.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|receipt||Borrowings|0.0|0.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|receipt||Commercial Venture|0.0|0.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|receipt||Other Receipts|410627.0|311012.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|payment||Personal Emoluments|11683871.0|9733551.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|payment||Use of Goods and Services|12865891.0|7718976.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|payment||Financial Charges|0.0|0.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|payment||Social Benefits|0.0|0.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|payment||Non-financial Assets Acquisition|3099650.0|226461.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|payment||Financial Assets|44055.0|258829.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|payment||Loan Repayments|0.0|0.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|payment||Other Payments|660413.0|1302230.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|budget_vs_actual|Receipt|Local Taxes|||628517.0|695694.0|67177.0|11.0|False||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|budget_vs_actual|Receipt|Fees and Charges|||11282456.0|8638097.0|-2644359.0|-23.0|True||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|budget_vs_actual|Receipt|Licences|||192500.0|183360.0|-9140.0|-5.0|False||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|budget_vs_actual|Receipt|Levies|||123900.0|140638.0|16738.0|14.0|False||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|budget_vs_actual|Receipt|Permits|||1544250.0|1164859.0|-379391.0|-25.0|True||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|budget_vs_actual|Receipt|Local Government Equalisation Fund|||9240895.0|8731522.0|-509373.0|-6.0|False||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|budget_vs_actual|Receipt|Constituency Development Fund|||25700000.0|23739911.0|-1960089.0|-8.0|False||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|budget_vs_actual|Receipt|Other Grants|||180000.0|277720.0|97720.0|0.0|False||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|budget_vs_actual|Receipt|Other Receipts|||1138465.0|410627.0|-727838.0|-64.0|True||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|budget_vs_actual|Payment|Personal Emoluments|||11871484.0|11683871.0|-187613.0|-2.0|False||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|budget_vs_actual|Payment|Use of Goods and Services|||32814799.0|12865891.0|-19948908.0|-61.0|True||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|budget_vs_actual|Payment|Non-Financial Assets Acquisition|||3705700.0|3099650.0|-606050.0|-16.0|False||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|budget_vs_actual|Payment|Financial Assets|||44055.0|44055.0|0.0|0.0|False||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|budget_vs_actual|Payment|Other Payments|||1639000.0|660413.0|-978587.0|-60.0|True||Financial-Statement-2022-Signed-Copy.pdf|11
+2022|lgef|LGEF Monthly Funding|January|765413.72|720074.63|||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|lgef|LGEF Monthly Funding|February|673659.15|747729.41|||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|lgef|LGEF Monthly Funding|March|701393.12|756919.66|||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|lgef|LGEF Monthly Funding|April|731854.2||||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|lgef|LGEF Monthly Funding|May|750228.84|761919.66|||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|lgef|LGEF Monthly Funding|June|752048.14|715413.72|||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|lgef|LGEF Monthly Funding|July|739548.0|765413.72|||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|lgef|LGEF Monthly Funding|August|746048.13|737492.41|||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|lgef|LGEF Monthly Funding|September|746048.13|741713.72|||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|lgef|LGEF Monthly Funding|October|694905.6|741947.73|||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|lgef|LGEF Monthly Funding|November|735410.55|765413.72|||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|lgef|LGEF Monthly Funding|December|694964.58|1527974.86|||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|lgef|LGEF Summary|Operational Expenditure (80%)|6985218.0|7185611.0|||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|lgef|LGEF Summary|Capital Expenditure (20%)|1746304.0|582171.0|||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|lgef|LGEF Summary|Capital - Asset Acquisition|3099650.0||||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|lgef|LGEF Summary|Capital - Roads Regrading & Dumpsite|156258.0||||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|lgef|LGEF Summary|Capital - Carry-forward from previous years|2915982.0|1406378.0|||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|lgef|LGEF Summary|LGEF - Total Funding|8731522.0|8982013.0|||||||Financial-Statement-2022-Signed-Copy.pdf|25
+2022|cdf|Funding|Chirundu Constituency Funding|23739911.0|1600000.0|||||||Financial-Statement-2022-Signed-Copy.pdf|26
+2022|cdf|Other Sources|No other sources reported|0.0|0.0|||||||Financial-Statement-2022-Signed-Copy.pdf|26
+2022|cdf|Infrastructure Development|Construction of Primary Schools|1478332.0|822092.0|||||||Financial-Statement-2022-Signed-Copy.pdf|26
+2022|cdf|Infrastructure Development|Construction of Secondary Schools|85000.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26
+2022|cdf|Infrastructure Development|Construction of Bridges|153118.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26
+2022|cdf|Infrastructure Development|Construction of Health Post|250005.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26
+2022|cdf|Infrastructure Development|Construction of Boreholes|564332.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26
+2022|cdf|Infrastructure Development|Construction of Staff House|250005.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26
+2022|cdf|Rehabilitation Works|Rehabilitation of Classroom Block|26784.0|60609.0|||||||Financial-Statement-2022-Signed-Copy.pdf|26
+2022|cdf|Asset Acquisition|No assets acquired|0.0|0.0|||||||Financial-Statement-2022-Signed-Copy.pdf|26
+2022|cdf|Youth and Women Empowerment|Youth Soft Loans|120000.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26
+2022|cdf|Youth and Women Empowerment|Women Soft Loans|840000.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26
+2022|cdf|Secondary & Skills Bursaries|Secondary Bursaries|1018330.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26
+2022|cdf|Secondary & Skills Bursaries|Skills Training Bursaries|491368.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26
+2022|cdf|Administrative Costs|CDF Administration|1240890.0|68849.0|||||||Financial-Statement-2022-Signed-Copy.pdf|26
+2022|cdf|Administrative Costs|Other|0.0|0.0|||||||Financial-Statement-2022-Signed-Copy.pdf|26
+2022|revenue_detail|Local Taxes|Residential Rates|62048.0|6822.0|||||||Financial-Statement-2022-Signed-Copy.pdf|21
+2022|revenue_detail|Local Taxes|Industrial / Commercial Rates|602111.0|57957.0|||||||Financial-Statement-2022-Signed-Copy.pdf|21
+2022|revenue_detail|Local Taxes|Hospitality|5400.0|2700.0|||||||Financial-Statement-2022-Signed-Copy.pdf|21
+2022|revenue_detail|Local Taxes|Personal Levy|26135.0|26337.0|||||||Financial-Statement-2022-Signed-Copy.pdf|21
+2022|revenue_detail|Fees and Charges|Consent Fees|50.0||||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Survey Fees|60800.0||||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Building Inspection Fees|5800.0|2900.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Plan Scrutiny Fees|13893.0|16891.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Rentals/Lease of Council Properties|13200.0||||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Application Form Fees|177390.0|74695.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Search Fees|100.0||||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Market Fees|157582.0|20447.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Parking Fees|7414868.0|5527004.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Bus Station Fees|7154.0|22477.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Affidavit Fees|820.0|3980.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Refuse Disposal Fees|21550.0|67698.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Notice of Marriage|15660.0|9300.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Abbattoir/Meat Inspection Fees|1085.0|8000.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Communication Mast Levy|10000.0|20000.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Billboard and Banner|29550.0|183742.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Lease of Council Transport|130050.0|32100.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Illegal Vending Fees|450.0|7995.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Penalties|84470.0||||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Change of Ownership of Plot|13200.0|15350.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Change of Land Use||24500.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Ntemba Fees|11800.0|1150.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Truck Parking||167400.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Registration of Clubs and Societies|64950.0|16350.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Ablution Fees||82434.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Electricity & Water Connections||7950.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Fees and Charges|Other Fees and Charges|24721.0|28973.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Land Development Charges|Service Charges - Residential Plots|253400.0|127320.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Land Development Charges|Service Charges - Industrial Plots|110554.0|7500.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Land Development Charges|Premium Plots - Residential|7500.0||||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Land Development Charges|Premium Plots - Commercial|7500.0|238800.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Land Development Charges|Other (New Business & One-Off)||495880.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22
+2022|revenue_detail|Licences|Occupancy Licence||5000.0|||||||Financial-Statement-2022-Signed-Copy.pdf|23
+2022|revenue_detail|Licences|Hawkers Licence|2100.0|700.0|||||||Financial-Statement-2022-Signed-Copy.pdf|23
+2022|revenue_detail|Licences|Lodger Licence||3000.0|||||||Financial-Statement-2022-Signed-Copy.pdf|23
+2022|revenue_detail|Licences|Wholesale Licence|200.0||||||||Financial-Statement-2022-Signed-Copy.pdf|23
+2022|revenue_detail|Licences|Liquor Licence|61525.0|14855.0|||||||Financial-Statement-2022-Signed-Copy.pdf|23
+2022|revenue_detail|Licences|Firearm and Ammunition Licence|22400.0|31640.0|||||||Financial-Statement-2022-Signed-Copy.pdf|23
+2022|revenue_detail|Licences|Petroleum Licence|87200.0|27000.0|||||||Financial-Statement-2022-Signed-Copy.pdf|23
+2022|revenue_detail|Licences|Dog Licence|7085.0||||||||Financial-Statement-2022-Signed-Copy.pdf|23
+2022|revenue_detail|Licences|Other Licences|2850.0|9430.0|||||||Financial-Statement-2022-Signed-Copy.pdf|23
+2022|revenue_detail|Levies|Livestock Levy|22310.0|34335.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24
+2022|revenue_detail|Levies|Bird Levy|527.0|1299.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24
+2022|revenue_detail|Levies|Fish Levy|1031.0|3614.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24
+2022|revenue_detail|Levies|Pole Levy|974.0|9300.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24
+2022|revenue_detail|Levies|Charcoal Levy|42843.0|37144.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24
+2022|revenue_detail|Levies|Sand Levy|27060.0|8125.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24
+2022|revenue_detail|Levies|Crop Levy||25264.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24
+2022|revenue_detail|Levies|Miscellaneous Levies|45893.0|2560.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24
+2022|revenue_detail|Permits|Health Permit|82925.0|76390.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24
+2022|revenue_detail|Permits|Burial Permits and Grave Sites|2200.0|2350.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24
+2022|revenue_detail|Permits|Fire Certificates|176225.0|167435.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24
+2022|revenue_detail|Permits|Extension of Business Hours Permits|13900.0||||||||Financial-Statement-2022-Signed-Copy.pdf|24
+2022|revenue_detail|Permits|Public Permits (Social Gatherings)|2134.0|218020.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24
+2022|revenue_detail|Permits|Permit for Opaque Beer||6700.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24
+2022|revenue_detail|Permits|Herbalist Permit|870.0|540.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24
+2022|revenue_detail|Permits|Business Permit|882125.0|415668.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24
+2022|revenue_detail|Permits|Other Permits|4480.0|16366.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24
