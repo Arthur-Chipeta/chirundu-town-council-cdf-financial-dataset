@@ -1,0 +1,33 @@
+{
+  "source_id": 59,
+  "source_page": 1,
+  "funding_year": 2025,
+  "year_basis": "PDF heading: 2025 CDF Approved Community Projects",
+  "method": "AI-assisted visual transcription from rendered PDF, followed by visual comparison; no OCR engine used",
+  "reviewed_on": "2026-09-13",
+  "review_scope": "All 14 numbered rows visually compared by the assistant; independent group-member review pending",
+  "columns": ["source_row", "project_name_raw", "ward_raw", "zone_raw", "location_raw", "approval_comment_raw"],
+  "rows": [
+    [1, "Construction of Solar powered borehole", "Ibbwemunyama", "Ibbwemunyama", "Ibbwemunyama Rural Health Post", "Approved"],
+    [2, "Community water project", "Chirundu west", "Chibende and Lusumpuko", "Chibende and Lusumpuko Communities", "Approved"],
+    [3, "Completion of Maternity Wing", "Chirundu West", "Chibende", "Chibende", "Approved"],
+    [4, "Construction of a 1x3 classroom block", "Kapululira", "Farao", "Farao Community School", "Approved"],
+    [5, "Construction of water borne toilets and solar powered borehole", "Njame", "Chibulameenda", null, "Approved"],
+    [6, "Construction of a Double Storey Classroom Block (3 classes per storey with Offices)", "Ngombe Illede", "Kayuni", "Proposed Ngombe Illede Sec. School", "Approved"],
+    [7, "Upgrading of 10 hand pumps", "Lusitu", "All zones", "10 villages", "Approved"],
+    [8, "Construction of a staff house, ablution block and solar powered borehole", "Kanyanga", "Mangaba", "Mangaba Community School", "Approved"],
+    [9, "Upgrading of 20 boreholes", "Sikoongo", "All zones", "10 – Sikoongo zone, 04-Siachibubba zone and 06-T-Junction zone", "Approved"],
+    [10, "Construction of a bridge", "Nkadabwe", "Velu", "Velu river", "Approved"],
+    [11, "Procurement of a tipper truck, motor grader and drilling rig", "Chirundu Central", "All zones", "All zones", "Approved procurement of Motor grader"],
+    [12, "Construction of sports facility phase 2", "Chirundu Central", "All zones", "All zones", "Approved"],
+    [13, "Construction of a clinic", "Mushungu", "Simaundu", "Simaundu", "Approved"],
+    [14, "Construction of a 1x3 classroom block", "Musaya", "Malengo", "Naloba Community School", "Approved"]
+  ],
+  "notes": {
+    "5": "Location cell is blank in the source; zone is not substituted for location.",
+    "9": "Location contains a distribution across zones rather than one site; preserve the full text.",
+    "11": "Project-name cell lists three vehicles; comment limits approval to procurement of the motor grader. Do not classify all three as approved purchases. Stamp overlaps the comment; independent review recommended.",
+    "12": "Phase 2 is project scope, not evidence of current progress.",
+    "3": "Completion is part of the proposed work description, not a completed implementation status."
+  }
+}

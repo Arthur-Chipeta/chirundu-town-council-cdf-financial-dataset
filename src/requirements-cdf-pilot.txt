@@ -6,3 +6,4 @@ Pillow
 rapidocr-onnxruntime==1.4.4
 jupyterlab
 ipykernel
+xlrd
