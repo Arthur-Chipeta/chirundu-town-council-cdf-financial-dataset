@@ -1,6 +1,6 @@
-# Chirundu CDF project — Version 4
+# Chirundu CDF project — Version 5
 
-Adds sections 6–7, performance and project-progress tables, and saved performance extraction evidence. This is a progressive snapshot: it includes the preceding versions' work.
+Adds sections 8–14, member-curated lists, detailed finance, procurement, data inspection, the full source corpus and the editable data-description paper. This is a progressive snapshot: it includes the preceding versions' work.
 
 ## Run
 
@@ -8,8 +8,8 @@ From this folder, install `src/requirements-cdf-pilot.txt` and open `notebooks/c
 
 ## Participation record
 
-**Assigned member:** Member 4 — name pending  
-**Work package:** Performance and project-progress extraction  
+**Assigned member:** Member 5 — name pending  
+**Work package:** Additional CDF lists, detailed finance, procurement, inspection and final documentation  
 **Status:** Assignment; member confirmation pending
 
 This folder records an assigned, reviewable work package. No personal authorship evidence was available for this member. Participation remains unconfirmed. The member should review or amend these artifacts, then add their name and a traceable commit or signed note describing their actual work.

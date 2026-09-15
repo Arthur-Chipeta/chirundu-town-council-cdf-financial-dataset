@@ -1,0 +1,429 @@
+fiscal_year|record_type|section|line_item|amount_current_zmw|amount_prior_zmw|approved_budget_zmw|actual_zmw|variance_zmw|variance_pct|is_material_variance|notes|source_document|source_page|member_file|period
+2022|receipt||Local Taxes|695694.0|93816.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|receipt||Fees and Charges|8638097.0|7210836.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|receipt||Licences|183360.0|91625.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|receipt||Levies|140638.0|121641.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|receipt||Permits|1164859.0|903469.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|receipt||Local Government Equalisation Fund|8731522.0|8982013.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|receipt||Constituency Development Fund|23739911.0|1600000.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|receipt||Other Grants|277720.0|99851.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|receipt||Borrowings|0.0|0.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|receipt||Commercial Venture|0.0|0.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|receipt||Other Receipts|410627.0|311012.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|payment||Personal Emoluments|11683871.0|9733551.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|payment||Use of Goods and Services|12865891.0|7718976.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|payment||Financial Charges|0.0|0.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|payment||Social Benefits|0.0|0.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|payment||Non-financial Assets Acquisition|3099650.0|226461.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|payment||Financial Assets|44055.0|258829.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|payment||Loan Repayments|0.0|0.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|payment||Other Payments|660413.0|1302230.0|||||||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|budget_vs_actual|Receipt|Local Taxes|||628517.0|695694.0|67177.0|11.0|False||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|budget_vs_actual|Receipt|Fees and Charges|||11282456.0|8638097.0|-2644359.0|-23.0|True||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|budget_vs_actual|Receipt|Licences|||192500.0|183360.0|-9140.0|-5.0|False||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|budget_vs_actual|Receipt|Levies|||123900.0|140638.0|16738.0|14.0|False||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|budget_vs_actual|Receipt|Permits|||1544250.0|1164859.0|-379391.0|-25.0|True||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|budget_vs_actual|Receipt|Local Government Equalisation Fund|||9240895.0|8731522.0|-509373.0|-6.0|False||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|budget_vs_actual|Receipt|Constituency Development Fund|||25700000.0|23739911.0|-1960089.0|-8.0|False||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|budget_vs_actual|Receipt|Other Grants|||180000.0|277720.0|97720.0|0.0|False||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|budget_vs_actual|Receipt|Other Receipts|||1138465.0|410627.0|-727838.0|-64.0|True||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|budget_vs_actual|Payment|Personal Emoluments|||11871484.0|11683871.0|-187613.0|-2.0|False||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|budget_vs_actual|Payment|Use of Goods and Services|||32814799.0|12865891.0|-19948908.0|-61.0|True||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|budget_vs_actual|Payment|Non-Financial Assets Acquisition|||3705700.0|3099650.0|-606050.0|-16.0|False||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|budget_vs_actual|Payment|Financial Assets|||44055.0|44055.0|0.0|0.0|False||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|budget_vs_actual|Payment|Other Payments|||1639000.0|660413.0|-978587.0|-60.0|True||Financial-Statement-2022-Signed-Copy.pdf|11|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Monthly Funding|January|765413.72|720074.63|||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Monthly Funding|February|673659.15|747729.41|||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Monthly Funding|March|701393.12|756919.66|||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Monthly Funding|April|731854.2||||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Monthly Funding|May|750228.84|761919.66|||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Monthly Funding|June|752048.14|715413.72|||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Monthly Funding|July|739548.0|765413.72|||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Monthly Funding|August|746048.13|737492.41|||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Monthly Funding|September|746048.13|741713.72|||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Monthly Funding|October|694905.6|741947.73|||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Monthly Funding|November|735410.55|765413.72|||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Monthly Funding|December|694964.58|1527974.86|||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Summary|Operational Expenditure (80%)|6985218.0|7185611.0|||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Summary|Capital Expenditure (20%)|1746304.0|582171.0|||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Summary|Capital - Asset Acquisition|3099650.0||||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Summary|Capital - Roads Regrading & Dumpsite|156258.0||||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Summary|Capital - Carry-forward from previous years|2915982.0|1406378.0|||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|lgef|LGEF Summary|LGEF - Total Funding|8731522.0|8982013.0|||||||Financial-Statement-2022-Signed-Copy.pdf|25|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|cdf|Funding|Chirundu Constituency Funding|23739911.0|1600000.0|||||||Financial-Statement-2022-Signed-Copy.pdf|26|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|cdf|Other Sources|No other sources reported|0.0|0.0|||||||Financial-Statement-2022-Signed-Copy.pdf|26|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|cdf|Infrastructure Development|Construction of Primary Schools|1478332.0|822092.0|||||||Financial-Statement-2022-Signed-Copy.pdf|26|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|cdf|Infrastructure Development|Construction of Secondary Schools|85000.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|cdf|Infrastructure Development|Construction of Bridges|153118.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|cdf|Infrastructure Development|Construction of Health Post|250005.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|cdf|Infrastructure Development|Construction of Boreholes|564332.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|cdf|Infrastructure Development|Construction of Staff House|250005.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|cdf|Rehabilitation Works|Rehabilitation of Classroom Block|26784.0|60609.0|||||||Financial-Statement-2022-Signed-Copy.pdf|26|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|cdf|Asset Acquisition|No assets acquired|0.0|0.0|||||||Financial-Statement-2022-Signed-Copy.pdf|26|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|cdf|Youth and Women Empowerment|Youth Soft Loans|120000.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|cdf|Youth and Women Empowerment|Women Soft Loans|840000.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|cdf|Secondary & Skills Bursaries|Secondary Bursaries|1018330.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|cdf|Secondary & Skills Bursaries|Skills Training Bursaries|491368.0||||||||Financial-Statement-2022-Signed-Copy.pdf|26|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|cdf|Administrative Costs|CDF Administration|1240890.0|68849.0|||||||Financial-Statement-2022-Signed-Copy.pdf|26|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|cdf|Administrative Costs|Other|0.0|0.0|||||||Financial-Statement-2022-Signed-Copy.pdf|26|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Local Taxes|Residential Rates|62048.0|6822.0|||||||Financial-Statement-2022-Signed-Copy.pdf|21|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Local Taxes|Industrial / Commercial Rates|602111.0|57957.0|||||||Financial-Statement-2022-Signed-Copy.pdf|21|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Local Taxes|Hospitality|5400.0|2700.0|||||||Financial-Statement-2022-Signed-Copy.pdf|21|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Local Taxes|Personal Levy|26135.0|26337.0|||||||Financial-Statement-2022-Signed-Copy.pdf|21|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Consent Fees|50.0||||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Survey Fees|60800.0||||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Building Inspection Fees|5800.0|2900.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Plan Scrutiny Fees|13893.0|16891.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Rentals/Lease of Council Properties|13200.0||||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Application Form Fees|177390.0|74695.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Search Fees|100.0||||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Market Fees|157582.0|20447.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Parking Fees|7414868.0|5527004.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Bus Station Fees|7154.0|22477.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Affidavit Fees|820.0|3980.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Refuse Disposal Fees|21550.0|67698.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Notice of Marriage|15660.0|9300.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Abbattoir/Meat Inspection Fees|1085.0|8000.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Communication Mast Levy|10000.0|20000.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Billboard and Banner|29550.0|183742.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Lease of Council Transport|130050.0|32100.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Illegal Vending Fees|450.0|7995.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Penalties|84470.0||||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Change of Ownership of Plot|13200.0|15350.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Change of Land Use||24500.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Ntemba Fees|11800.0|1150.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Truck Parking||167400.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Registration of Clubs and Societies|64950.0|16350.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Ablution Fees||82434.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Electricity & Water Connections||7950.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Fees and Charges|Other Fees and Charges|24721.0|28973.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Land Development Charges|Service Charges - Residential Plots|253400.0|127320.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Land Development Charges|Service Charges - Industrial Plots|110554.0|7500.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Land Development Charges|Premium Plots - Residential|7500.0||||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Land Development Charges|Premium Plots - Commercial|7500.0|238800.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Land Development Charges|Other (New Business & One-Off)||495880.0|||||||Financial-Statement-2022-Signed-Copy.pdf|22|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Licences|Occupancy Licence||5000.0|||||||Financial-Statement-2022-Signed-Copy.pdf|23|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Licences|Hawkers Licence|2100.0|700.0|||||||Financial-Statement-2022-Signed-Copy.pdf|23|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Licences|Lodger Licence||3000.0|||||||Financial-Statement-2022-Signed-Copy.pdf|23|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Licences|Wholesale Licence|200.0||||||||Financial-Statement-2022-Signed-Copy.pdf|23|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Licences|Liquor Licence|61525.0|14855.0|||||||Financial-Statement-2022-Signed-Copy.pdf|23|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Licences|Firearm and Ammunition Licence|22400.0|31640.0|||||||Financial-Statement-2022-Signed-Copy.pdf|23|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Licences|Petroleum Licence|87200.0|27000.0|||||||Financial-Statement-2022-Signed-Copy.pdf|23|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Licences|Dog Licence|7085.0||||||||Financial-Statement-2022-Signed-Copy.pdf|23|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Licences|Other Licences|2850.0|9430.0|||||||Financial-Statement-2022-Signed-Copy.pdf|23|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Levies|Livestock Levy|22310.0|34335.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Levies|Bird Levy|527.0|1299.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Levies|Fish Levy|1031.0|3614.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Levies|Pole Levy|974.0|9300.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Levies|Charcoal Levy|42843.0|37144.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Levies|Sand Levy|27060.0|8125.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Levies|Crop Levy||25264.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Levies|Miscellaneous Levies|45893.0|2560.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Permits|Health Permit|82925.0|76390.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Permits|Burial Permits and Grave Sites|2200.0|2350.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Permits|Fire Certificates|176225.0|167435.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Permits|Extension of Business Hours Permits|13900.0||||||||Financial-Statement-2022-Signed-Copy.pdf|24|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Permits|Public Permits (Social Gatherings)|2134.0|218020.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Permits|Permit for Opaque Beer||6700.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Permits|Herbalist Permit|870.0|540.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Permits|Business Permit|882125.0|415668.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24|db-unza26-csc4792-chirundu_2022_financials.csv|
+2022|revenue_detail|Permits|Other Permits|4480.0|16366.0|||||||Financial-Statement-2022-Signed-Copy.pdf|24|db-unza26-csc4792-chirundu_2022_financials.csv|
+2023|receipt||Local Taxes|325162.0|695694.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|receipt||Fees and Charges|19134695.0|8638097.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|receipt||Licences|220900.0|183360.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|receipt||Levies|163188.0|140638.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|receipt||Permits|1522608.0|1164859.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|receipt||Local Government Equalisation Fund|8833102.0|8731522.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|receipt||Constituency Development Fund|27261470.0|23739911.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|receipt||Other Grants|12020.0|277720.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|receipt||Borrowings|0.0|0.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|receipt||Commercial Venture|77959.0|0.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|receipt||Other Receipts|317359.0|410627.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|payment||Personal Emoluments|14807445.0|11683871.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|payment||Use of Goods and Services|15921998.0|12865891.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|payment||Financial Charges|0.0|0.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|payment||Social Benefits|9500657.0|0.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|payment||Non-financial Assets Acquisition|15097519.0|3099650.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|payment||Financial Assets|5964128.0|44055.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|payment||Loan Repayments|0.0|0.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|payment||Other Payments|0.0|660413.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|budget_vs_actual|Receipt|Local Taxes|||450730.0|325162.0|-125568.0|-28.0|True||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|budget_vs_actual|Receipt|Fees and Charges|||12154054.0|19134695.0|6980641.0|57.0|True||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|budget_vs_actual|Receipt|Licences|||323550.0|220900.0|-102650.0|-32.0|True||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|budget_vs_actual|Receipt|Levies|||141750.0|163188.0|21438.0|15.0|False||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|budget_vs_actual|Receipt|Permits|||1920300.0|1522608.0|-397692.0|-21.0|True||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|budget_vs_actual|Receipt|Local Government Equalisation Fund|||9420695.0|8833102.0|-587593.0|-6.0|False||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|budget_vs_actual|Receipt|Constituency Development Fund|||28300000.0|27261470.0|-1038530.0|-4.0|False||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|budget_vs_actual|Receipt|Other Grants|||150000.0|12020.0|-137980.0|0.0|False||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|budget_vs_actual|Receipt|Commercial Venture|||0.0|77958.0|77958.0|0.0|False||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|budget_vs_actual|Receipt|Other Receipts|||204686.0|317360.0|112674.0|55.0|True||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|budget_vs_actual|Payment|Personal Emoluments|||13087048.0|14807445.0|1720397.0|13.0|False||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|budget_vs_actual|Payment|Use of Goods and Services|||11359006.0|15921998.0|4562992.0|40.0|True||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|budget_vs_actual|Payment|Social Benefits|||7527800.0|9500657.0|1972857.0|26.0|True||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|budget_vs_actual|Payment|Non-Financial Assets Acquisition|||17865711.0|15097519.0|-2768192.0|-15.0|False||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|budget_vs_actual|Payment|Financial Assets|||3226200.0|5964128.0|2737928.0|85.0|True||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|lgef|LGEF Monthly Funding|January|741458.69|765413.72|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|lgef|LGEF Monthly Funding|February|697977.18|673659.15|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|lgef|LGEF Monthly Funding|March|722309.19|701393.12|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|lgef|LGEF Monthly Funding|April|737309.19|731854.2|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|lgef|LGEF Monthly Funding|May|745000.77|750228.84|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|lgef|LGEF Monthly Funding|June|738250.77|752048.14|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|lgef|LGEF Monthly Funding|July|749000.75|739548.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|lgef|LGEF Monthly Funding|August|749000.77|746048.13|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|lgef|LGEF Monthly Funding|September|750809.0|746048.13|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|lgef|LGEF Monthly Funding|October|749000.77|694905.6|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|lgef|LGEF Monthly Funding|November|708675.52|735410.55|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|lgef|LGEF Monthly Funding|December|744309.16|694964.58|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|lgef|LGEF Summary|Operational Expenditure (80%)|7066482.0|6985218.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|lgef|LGEF Summary|Capital Expenditure (20%)|2377040.0|1746304.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|lgef|LGEF Summary|LGEF - Total Funding|8833102.0|8731522.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|cdf|Funding|Chirundu Constituency Funding|27261470.0|23739911.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|cdf|Other Sources|Other CDF Sources|241963.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|cdf|Infrastructure Development|Construction of Primary Schools|5878137.0|1478332.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|cdf|Infrastructure Development|Construction of Secondary Schools|85000.0|85000.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|cdf|Infrastructure Development|Construction of Bridges|66829.0|153118.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|cdf|Infrastructure Development|Construction of Health Post|571208.0|250005.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|cdf|Infrastructure Development|Construction of Boreholes|2415981.0|564332.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|cdf|Infrastructure Development|Construction of Staff House|902984.0|250005.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|cdf|Infrastructure Development|Construction of Feeder Roads|599899.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|cdf|Infrastructure Development|Purchase of School Desks|2017930.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|cdf|Youth and Women Empowerment|Youth and Women Empowerment Grant|2118970.0|960000.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|cdf|Youth and Women Empowerment|Youth and Women Loans|5964128.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|cdf|Secondary & Skills Bursaries|Secondary Boarding Schools and Skills Dev Bursaries|7381687.0|1509698.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|cdf|Administrative Costs|CDF Administration|2925949.0|1240890.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Local Taxes|Residential Rates|196627.0|62048.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|21|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Local Taxes|Industrial / Commercial Rates|77650.0|602111.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|21|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Local Taxes|Hospitality||5400.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|21|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Local Taxes|Personal Levy|50885.0|26135.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|21|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Consent Fees|2050.0|50.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Survey Fees|85600.0|60800.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Building Inspection Fees|10900.0|5800.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Plan Scrutiny Fees|25043.0|13893.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Application Form Fees|119860.0|177390.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Search Fees|100.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Market Fees|26972.0|157582.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Parking Fees|17835414.0|7414868.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Bus Station Fees|20460.0|7154.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Affidavit Fees|500.0|820.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Refuse Disposal Fees|68386.0|21550.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Notice of Marriage|11090.0|15660.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Abbattoir/Meat Inspection Fees|142.0|1085.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Communication Mast Levy|29330.0|10000.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Land Record|3000.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Billboard and Banner|47960.0|29550.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Lease of Council Transport|130050.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Illegal Vending Fees|450.0|450.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Penalties|68671.0|84470.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Change of Land Use|19000.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Ntemba Fees|1400.0|11800.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Truck Parking|64950.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Registration of Clubs and Societies|104090.0|64950.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Ablution Fees|106123.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Fees and Charges|Electricity & Water Connections|5805.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Land Development Charges|Service Charges - Residential Plots|312500.0|253400.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Land Development Charges|Service Charges - Industrial Plots|59950.0|110554.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Licences|Occupancy Licence|8000.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|23|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Licences|Hawkers Licence|6100.0|2100.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|23|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Licences|Lodger Licence|5400.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|23|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Licences|Liquor Licence|115300.0|61525.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|23|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Licences|Firearm and Ammunition Licence|19950.0|22400.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|23|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Licences|Petroleum Licence|66130.0|87200.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|23|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Licences|Dog Licence|20.0|7085.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|23|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Levies|Livestock Levy|21590.0|22310.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Levies|Fish Levy|150.0|1031.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Levies|Charcoal Levy|55800.0|42843.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Levies|Sand Levy|39786.0|27060.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Levies|Crop Levy|43255.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Levies|Miscellaneous Levies|2607.0|45893.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Permits|Health Permit|229570.0|82925.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Permits|Burial Permits and Grave Sites|5198.0|2200.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Permits|Fire Certificates|358290.0|176225.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Permits|Extension of Business Hours Permits|12764.0|13900.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Permits|Public Permits (Social Gatherings)|8650.0|2134.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Permits|Distributor Permit|69450.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Permits|Herbalist Permit|870.0|870.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Permits|Business Permit|829316.0|882125.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24|db-unza26-csc4792-chirundu_2023_financials.csv|
+2023|revenue_detail|Permits|Other Permits|8500.0|4480.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24|db-unza26-csc4792-chirundu_2023_financials.csv|
+2024|receipt||Local Taxes|486568.0|325162.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|receipt||Fees and Charges|20310710.0|19134695.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|receipt||Licences|371877.0|220900.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|receipt||Levies|186848.0|163188.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|receipt||Permits|2073393.0|1522608.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|receipt||Local Government Equalisation Fund|9393949.0|8833102.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|receipt||Constituency Development Fund|10675337.0|27261470.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|receipt||Other Grants|2694736.0|12020.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|receipt||Borrowings|0.0|0.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|receipt||Commercial Venture|200401.0|77959.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|receipt||Sector Grant (Devolved Functions)|8154778.0|0.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|receipt||Other Receipts|387000.0|317359.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|payment||Personal Emoluments|18947844.0|14807445.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|payment||Use of Goods and Services|17169941.0|15921998.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|payment||Financial Charges|0.0|0.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|payment||Social Benefits|7662922.0|9500657.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|payment||Non-financial Assets Acquisition|18554528.0|15097519.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|payment||Financial Assets|307185.0|5964128.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|payment||Loan Repayments|0.0|0.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|payment||Other Payments|1386598.0|0.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|12|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|budget_vs_actual|Receipt|Local Taxes|||934214.0|486568.0|-447646.0|-48.0|True||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|budget_vs_actual|Receipt|Fees and Charges|||25175997.0|20310710.0|-4865288.0|-19.0|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|budget_vs_actual|Receipt|Licences|||355050.0|371877.0|16827.0|5.0|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|budget_vs_actual|Receipt|Levies|||133900.0|186848.0|52948.0|40.0|True||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|budget_vs_actual|Receipt|Permits|||2007550.0|2073393.0|65843.0|3.0|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|budget_vs_actual|Receipt|Local Government Equalisation Fund|||9708895.0|9393949.0|-314947.0|-3.0|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|budget_vs_actual|Receipt|Constituency Development Fund|||30635642.0|10675337.0|-19960305.0|-65.0|True||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|budget_vs_actual|Receipt|Other Grants|||2694736.0|2694736.0|0.0|0.0|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|budget_vs_actual|Receipt|Commercial Venture|||496090.0|200401.0|-295689.0|-60.0|True||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|budget_vs_actual|Receipt|Sector Grant (Devolved Functions)|||6620111.0|8154778.0|1534667.0|23.0|True||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|budget_vs_actual|Receipt|Other Receipts|||1000000.0|387000.0|-613000.0|-61.0|True||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|budget_vs_actual|Payment|Personal Emoluments|||21037626.0|18947844.0|-2089782.0|-10.0|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|budget_vs_actual|Payment|Use of Goods and Services|||18363859.0|17169941.0|-1193918.0|-7.0|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|budget_vs_actual|Payment|Social Benefits|||8149081.0|7662922.0|-486159.0|-6.0|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|budget_vs_actual|Payment|Non-Financial Assets Acquisition|||28719158.0|18554528.0|-10164630.0|-35.0|True||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|budget_vs_actual|Payment|Financial Assets|||3492463.0|307185.0|-3185278.0|-91.0|True||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|budget_vs_actual|Payment|Other Payments|||0.0|1386598.0|1386598.0|0.0|False||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|13|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|lgef|LGEF Monthly Funding|January|748997.0|741459.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|lgef|LGEF Monthly Funding|February|781484.0|697977.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|lgef|LGEF Monthly Funding|March|752174.0|722309.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|lgef|LGEF Monthly Funding|April|785292.0|737309.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|lgef|LGEF Monthly Funding|May|785296.0|745001.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|lgef|LGEF Monthly Funding|June|782288.0|738251.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|lgef|LGEF Monthly Funding|July|859214.0|749001.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|lgef|LGEF Monthly Funding|August|787300.0|749001.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|lgef|LGEF Monthly Funding|September|786304.0|750809.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|lgef|LGEF Monthly Funding|October|788967.0|749001.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|lgef|LGEF Monthly Funding|November|788479.0|708676.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|lgef|LGEF Monthly Funding|December|748154.0|744309.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|lgef|LGEF Summary|Operational Expenditure (100%)|9393949.0|7066482.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|lgef|LGEF Summary|Capital Expenditure (prior-year funds)|795958.0|2377040.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|lgef|LGEF Summary|LGEF - Total Funding|9393949.0|8833102.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|cdf|Funding|Chirundu Constituency Funding|10000000.0|27261470.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|cdf|Loan Repayments|CDF Loan Repayments|675337.0|241963.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|cdf|Infrastructure Development|Construction of Primary Schools|5761852.0|5878137.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|cdf|Infrastructure Development|Construction of Secondary Schools|282157.0|0.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|cdf|Infrastructure Development|Construction of Bridges|35430.0|66829.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|cdf|Infrastructure Development|Construction of Health Post|3760421.0|571208.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|cdf|Infrastructure Development|Construction of Boreholes|3659951.0|2415981.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|cdf|Infrastructure Development|Construction of Staff House|2203440.0|902984.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|cdf|Infrastructure Development|Construction of Feeder Roads|29128.0|599899.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|cdf|Infrastructure Development|Construction of Skills Center|284901.0|0.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|cdf|Youth and Women Empowerment|Youth and Women Empowerment Grant|2374071.0|2118970.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|cdf|Youth and Women Empowerment|Youth and Women Empowerment Loans|0.0|5964128.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|cdf|Secondary & Skills Bursaries|Secondary & Skills Development Bursaries|3097391.0|7381687.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|cdf|Administrative Costs|CDF Administration|1365827.0|2925949.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|cdf|Disaster Contingency|Disaster Contingency Costs|644564.0|0.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|cdf|Other Payments|Other Payments (Mopped Funds)|1386598.0|0.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|29|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Local Taxes|Residential Rates|85470.0|196627.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|25|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Local Taxes|Industrial / Commercial Rates|208908.0|77650.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|25|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Local Taxes|Personal Levy|42190.0|50885.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|25|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Local Taxes|Grant in Lieu of Rates|150000.0|0.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|25|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Consent Fees|0.0|2050.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Survey Fees|31350.0|85600.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Building Inspection Fees|24535.0|10900.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Plan Scrutiny Fees|38581.0|25043.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Rentals/Lease of Council Properties|500.0|0.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Application Form Fees|0.0|119860.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Search Fees|50.0|0.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Market Fees|41539.0|26972.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Motor Vehicle Fees|19535733.0|17835414.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Bus Station Fees|22104.0|20460.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Affidavit Fees|0.0|500.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Refuse Disposal Fees|109447.0|68386.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Notice of Marriage|16950.0|11090.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Abbattoir/Meat Inspection Fees|0.0|142.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Communication Mast Levy|25000.0|29330.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Land Record|0.0|3000.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Billboard and Banner|58450.0|47960.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Lease of Council Transport|182485.0|0.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Illegal Vending Fees|900.0|450.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Penalties|33330.0|68671.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Change of Ownership of Plot|4000.0|0.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Change of Land Use|21850.0|19000.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Ntemba Fees|2000.0|1400.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Truck Parking|0.0|64950.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Registration of Clubs and Societies|12350.0|104090.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Ablution Fees|63336.0|106123.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Electricity & Water Connections|870.0|5805.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Fees and Charges|Other Fees and Charges|10250.0|5805.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Land Development Charges|Service Charges - Residential Plots|72200.0|312500.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Land Development Charges|Service Charges - Industrial Plots|2900.0|59950.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|26|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Licences|Occupancy Licence|5000.0|8000.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|27|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Licences|Hawkers Licence|3600.0|6100.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|27|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Licences|Lodger Licence|1800.0|5400.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|27|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Licences|Liquor Licence|193440.0|115300.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|27|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Licences|Firearm and Ammunition Licence|28135.0|19950.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|27|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Licences|Petroleum Licence|136330.0|66130.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|27|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Licences|Dog Licence|3572.0|20.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|27|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Levies|Livestock Levy|55032.0|21590.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Levies|Pole Levy|270.0|150.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Levies|Charcoal Levy|1113.0|0.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Levies|Sand Levy|59735.0|55800.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Levies|Crop Levy|26319.0|39786.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Levies|Miscellaneous Levies|43709.0|43255.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Permits|Health Permit|411867.0|229570.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Permits|Burial Permits and Grave Sites|15200.0|5198.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Permits|Fire Certificates|425644.0|358290.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Permits|Public Permits (Social Gatherings)|1350.0|8650.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Permits|Distributor Permit|66750.0|69450.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Permits|Herbalist Permit|720.0|870.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Permits|Business Permit|1060589.0|829316.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28|db-unza26-csc4792-chirundu_2024_financials.csv|
+2024|revenue_detail|Permits|Other Permits|91274.0|8500.0|||||||Financial-Statement-2024-CTC-Signed-by-Council-Auditor-Generals-Office.pdf|28|db-unza26-csc4792-chirundu_2024_financials.csv|
+2025|receipt|National Support|Local Government Equalisation Fund|||8399999.98|3056652.61|5343347.37|36.4|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|receipt|National Support|Grants In Lieu of Rates|||150000.0|150000.0|0.0|100.0|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|receipt|National Support|Sector Grants|||13205709.0|4697433.69|8508275.31|35.6|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|receipt|National Support|ZDSP Capital Grants|||8340000.0|0.0|8340000.0|0.0|False||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|receipt|National Support|Constituency Development Fund|||36058150.6|20287381.52|15770769.08|56.3|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|receipt|National Support|Other Grants|||3200587.0|0.0|3200587.0|0.0|False||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|receipt|Own Source Revenue|Local Taxes|||795014.43|274579.26|520435.17|34.5|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|receipt|Own Source Revenue|Fee & Charges|||29171743.17|11372766.2|17798976.97|39.0|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|receipt|Own Source Revenue|Licences|||505480.0|141606.0|363874.0|28.0|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|receipt|Own Source Revenue|Levies|||231386.67|63477.5|167909.17|27.4|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|receipt|Own Source Revenue|Permits|||2561580.0|1244991.2|1316588.8|48.6|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|receipt|Own Source Revenue|Commercial ventures|||1000000.0|0.0|1000000.0|0.0|False||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|receipt|Own Source Revenue|Others OSR|||309765.0|355200.0|-45435.0|114.7|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|receipt|Other revenue|Other revenue|||34574969.27|13452620.26|21122349.01|38.9|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|payment||Personal emoluments|||21313109.1|10505097.94|10808011.16|49.3|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|payment||Use of goods and services|||27592550.57|13771587.68|13820962.89|49.9|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|payment||Financial charges|||0.0|0.0|0.0||False||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|payment||Social benefits|||18879509.22|9600022.19|9279487.03|50.8|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|payment||Non-financial assets|||32426979.43|5564972.94|26862006.49|17.2|False||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|payment||Financial assets|||3717267.52|4391251.0|-673983.48|118.1|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|payment||Loan repayments|||0.0|0.0|0.0||False||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|payment||Other repayments|||0.0|0.0|0.0||False||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|audit_finding|Governance (Established Committees & Meetings)|Finding 1||||||||"FINDING: All standing committees held meetings during the period under review.
+RECOMMENDATION: Management should continue to ensure that committee meetings are effectively conducted and that all resolutions are implemented to strengthen governance and accountability.
+ACTION TAKEN: Management has developed annual meeting calendars, instructed secretaries to maintain accurate minutes, and introduced action trackers to monitor implementation of resolutions."|2025 BI ANNUAL PERFORMANCE REPORT.pdf|2|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|audit_finding|Budget Execution|Finding 2||||||||"FINDING: Total revenue collection stood at 82%, while total expenditure reached 84% of the approved budget. This reflects expenditure running slightly ahead of revenue collection, posing a risk of overruns.
+RECOMMENDATION: Expenditure should be closely aligned to actual revenue inflows, and budget performance should be reviewed regularly to avoid cash flow challenges.
+ACTION TAKEN: Management has instituted monthly budget reviews and adopted a cash flow management framework to match commitments with collections."|2025 BI ANNUAL PERFORMANCE REPORT.pdf|2|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|audit_finding|Income - Own Source Revenue|Finding 3||||||||"FINDING: Own source revenue collection stood at 78% of the budget, indicating underperformance due to low compliance in property rates and market levels.
+RECOMMENDATION: Revenue mobilization should be enhanced through enforcement, automation, and broadening the revenue base.
+ACTION TAKEN: Management has updated the valuation roll, intensified debt recovery, and introduced electronic payment platforms to improve compliance."|2025 BI ANNUAL PERFORMANCE REPORT.pdf|2|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|audit_finding|Accounting procedures and controls|Finding 4||||||||"FINDING: Segregation of duties was weak and bank reconciliations were delayed, increasing the risk of errors.
+RECOMMENDATION: Strengthen segregation of duties and ensure reconciliations are performed and reviewed promptly.
+ACTION TAKEN: Additional staff were assigned to accounts, reconciliations are now conducted monthly, and reviews are performed by senior officers."|2025 BI ANNUAL PERFORMANCE REPORT.pdf|2|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|audit_finding|Stores management|Finding 5||||||||"FINDING: Stock records were in place and consistently maintained, with access restricted to authorized personnel.
+RECOMMENDATION: Continue proper management of stores through regular stock verification and adherence to authorization procedures for issuing consumables.
+ACTION TAKEN: Monthly stock verifications are conducted, and stores access remains restricted to authorized personnel only."|2025 BI ANNUAL PERFORMANCE REPORT.pdf|2|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|audit_finding|Procurement procedures and controls|Finding 6||||||||"FINDING: All procurement activities fully complied with procurement regulations; however, some documentation was incomplete.
+RECOMMENDATION: Ensure strict adherence to the Public Procurement Act and maintain complete procurement records.
+ACTION TAKEN: Staff have undergone training in procurement compliance, and all procurement requests are now processed through the Electronic Government Procurement (EGPC) system."|2025 BI ANNUAL PERFORMANCE REPORT.pdf|2|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|audit_finding|Payroll management|Finding 7||||||||"FINDING: Payroll processes were up to date, and employee personal files were complete.
+RECOMMENDATION: Continue to ensure timely updates to payroll and maintain full employee records.
+ACTION TAKEN: The payroll has been cleaned, personal files updated, and quarterly payroll reviews introduced."|2025 BI ANNUAL PERFORMANCE REPORT.pdf|2|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|audit_finding|Risk management|Finding 8||||||||"FINDING: A risk register was in place; however, monitoring of mitigation strategies was limited.
+RECOMMENDATION: Continue maintaining the risk register and strengthen mechanisms to monitor risks regularly.
+ACTION TAKEN: Management has implemented a risk management framework, and departmental heads have been tasked with quarterly risk reporting."|2025 BI ANNUAL PERFORMANCE REPORT.pdf|2|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|debt_arrears|Debt & Arrears|PE's|2969705.03|3091083.06|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|debt_arrears|Debt & Arrears|ZAMTEL|0.0|0.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|debt_arrears|Debt & Arrears|ZESCO|0.0|0.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|debt_arrears|Debt & Arrears|WATER|0.0|0.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|debt_arrears|Debt & Arrears|LEGAL COSTS|0.0|0.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|debt_arrears|Debt & Arrears|NAPSA ARREARS|2620421.5|2815853.18|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|debt_arrears|Debt & Arrears|NAPSA ARREARS - PENALTIES|7596904.51|7041602.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|debt_arrears|Debt & Arrears|LASF ARREARS|-49973.08|-49973.08|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|debt_arrears|Debt & Arrears|LASF ARREARS - PENALTIES|0.0|0.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|debt_arrears|Debt & Arrears|OTHER PENSION ARREARS|0.0|0.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|debt_arrears|Debt & Arrears|OTHER PENSIONS ARREARS - PENALTIES|0.0|0.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|debt_arrears|Debt & Arrears|ZRA PAYE|7342242.12|5186868.17|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|debt_arrears|Debt & Arrears|ZRA - PENALTIES|0.0|0.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3|db-unza26-csc4792-chirundu_2025_financials.csv|H1
+2025|debt_arrears|Debt & Arrears|GOODS & SERVICES|208460.06|156000.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3|db-unza26-csc4792-chirundu_2025_financials.csv|H1

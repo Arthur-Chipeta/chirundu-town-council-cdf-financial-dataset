@@ -1,0 +1,61 @@
+﻿fiscal_year|period|record_type|section|line_item|amount_current_zmw|amount_prior_zmw|approved_budget_zmw|actual_zmw|variance_zmw|variance_pct|is_material_variance|notes|source_document|source_page
+2025|H1|receipt|National Support|Local Government Equalisation Fund|||8399999.98|3056652.61|5343347.37|36.4|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|receipt|National Support|Grants In Lieu of Rates|||150000.0|150000.0|0.0|100.0|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|receipt|National Support|Sector Grants|||13205709.0|4697433.69|8508275.31|35.6|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|receipt|National Support|ZDSP Capital Grants|||8340000.0|0.0|8340000.0|0.0|False||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|receipt|National Support|Constituency Development Fund|||36058150.6|20287381.52|15770769.08|56.3|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|receipt|National Support|Other Grants|||3200587.0|0.0|3200587.0|0.0|False||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|receipt|Own Source Revenue|Local Taxes|||795014.43|274579.26|520435.17|34.5|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|receipt|Own Source Revenue|Fee & Charges|||29171743.17|11372766.2|17798976.97|39.0|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|receipt|Own Source Revenue|Licences|||505480.0|141606.0|363874.0|28.0|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|receipt|Own Source Revenue|Levies|||231386.67|63477.5|167909.17|27.4|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|receipt|Own Source Revenue|Permits|||2561580.0|1244991.2|1316588.8|48.6|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|receipt|Own Source Revenue|Commercial ventures|||1000000.0|0.0|1000000.0|0.0|False||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|receipt|Own Source Revenue|Others OSR|||309765.0|355200.0|-45435.0|114.7|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|receipt|Other revenue|Other revenue|||34574969.27|13452620.26|21122349.01|38.9|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|payment||Personal emoluments|||21313109.1|10505097.94|10808011.16|49.3|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|payment||Use of goods and services|||27592550.57|13771587.68|13820962.89|49.9|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|payment||Financial charges|||0.0|0.0|0.0||False||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|payment||Social benefits|||18879509.22|9600022.19|9279487.03|50.8|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|payment||Non-financial assets|||32426979.43|5564972.94|26862006.49|17.2|False||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|payment||Financial assets|||3717267.52|4391251.0|-673983.48|118.1|True||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|payment||Loan repayments|||0.0|0.0|0.0||False||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|payment||Other repayments|||0.0|0.0|0.0||False||2025 BI ANNUAL PERFORMANCE REPORT.pdf|1
+2025|H1|audit_finding|Governance (Established Committees & Meetings)|Finding 1||||||||"FINDING: All standing committees held meetings during the period under review.
+RECOMMENDATION: Management should continue to ensure that committee meetings are effectively conducted and that all resolutions are implemented to strengthen governance and accountability.
+ACTION TAKEN: Management has developed annual meeting calendars, instructed secretaries to maintain accurate minutes, and introduced action trackers to monitor implementation of resolutions."|2025 BI ANNUAL PERFORMANCE REPORT.pdf|2
+2025|H1|audit_finding|Budget Execution|Finding 2||||||||"FINDING: Total revenue collection stood at 82%, while total expenditure reached 84% of the approved budget. This reflects expenditure running slightly ahead of revenue collection, posing a risk of overruns.
+RECOMMENDATION: Expenditure should be closely aligned to actual revenue inflows, and budget performance should be reviewed regularly to avoid cash flow challenges.
+ACTION TAKEN: Management has instituted monthly budget reviews and adopted a cash flow management framework to match commitments with collections."|2025 BI ANNUAL PERFORMANCE REPORT.pdf|2
+2025|H1|audit_finding|Income - Own Source Revenue|Finding 3||||||||"FINDING: Own source revenue collection stood at 78% of the budget, indicating underperformance due to low compliance in property rates and market levels.
+RECOMMENDATION: Revenue mobilization should be enhanced through enforcement, automation, and broadening the revenue base.
+ACTION TAKEN: Management has updated the valuation roll, intensified debt recovery, and introduced electronic payment platforms to improve compliance."|2025 BI ANNUAL PERFORMANCE REPORT.pdf|2
+2025|H1|audit_finding|Accounting procedures and controls|Finding 4||||||||"FINDING: Segregation of duties was weak and bank reconciliations were delayed, increasing the risk of errors.
+RECOMMENDATION: Strengthen segregation of duties and ensure reconciliations are performed and reviewed promptly.
+ACTION TAKEN: Additional staff were assigned to accounts, reconciliations are now conducted monthly, and reviews are performed by senior officers."|2025 BI ANNUAL PERFORMANCE REPORT.pdf|2
+2025|H1|audit_finding|Stores management|Finding 5||||||||"FINDING: Stock records were in place and consistently maintained, with access restricted to authorized personnel.
+RECOMMENDATION: Continue proper management of stores through regular stock verification and adherence to authorization procedures for issuing consumables.
+ACTION TAKEN: Monthly stock verifications are conducted, and stores access remains restricted to authorized personnel only."|2025 BI ANNUAL PERFORMANCE REPORT.pdf|2
+2025|H1|audit_finding|Procurement procedures and controls|Finding 6||||||||"FINDING: All procurement activities fully complied with procurement regulations; however, some documentation was incomplete.
+RECOMMENDATION: Ensure strict adherence to the Public Procurement Act and maintain complete procurement records.
+ACTION TAKEN: Staff have undergone training in procurement compliance, and all procurement requests are now processed through the Electronic Government Procurement (EGPC) system."|2025 BI ANNUAL PERFORMANCE REPORT.pdf|2
+2025|H1|audit_finding|Payroll management|Finding 7||||||||"FINDING: Payroll processes were up to date, and employee personal files were complete.
+RECOMMENDATION: Continue to ensure timely updates to payroll and maintain full employee records.
+ACTION TAKEN: The payroll has been cleaned, personal files updated, and quarterly payroll reviews introduced."|2025 BI ANNUAL PERFORMANCE REPORT.pdf|2
+2025|H1|audit_finding|Risk management|Finding 8||||||||"FINDING: A risk register was in place; however, monitoring of mitigation strategies was limited.
+RECOMMENDATION: Continue maintaining the risk register and strengthen mechanisms to monitor risks regularly.
+ACTION TAKEN: Management has implemented a risk management framework, and departmental heads have been tasked with quarterly risk reporting."|2025 BI ANNUAL PERFORMANCE REPORT.pdf|2
+2025|H1|debt_arrears|Debt & Arrears|PE's|2969705.03|3091083.06|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3
+2025|H1|debt_arrears|Debt & Arrears|ZAMTEL|0.0|0.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3
+2025|H1|debt_arrears|Debt & Arrears|ZESCO|0.0|0.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3
+2025|H1|debt_arrears|Debt & Arrears|WATER|0.0|0.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3
+2025|H1|debt_arrears|Debt & Arrears|LEGAL COSTS|0.0|0.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3
+2025|H1|debt_arrears|Debt & Arrears|NAPSA ARREARS|2620421.5|2815853.18|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3
+2025|H1|debt_arrears|Debt & Arrears|NAPSA ARREARS - PENALTIES|7596904.51|7041602.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3
+2025|H1|debt_arrears|Debt & Arrears|LASF ARREARS|-49973.08|-49973.08|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3
+2025|H1|debt_arrears|Debt & Arrears|LASF ARREARS - PENALTIES|0.0|0.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3
+2025|H1|debt_arrears|Debt & Arrears|OTHER PENSION ARREARS|0.0|0.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3
+2025|H1|debt_arrears|Debt & Arrears|OTHER PENSIONS ARREARS - PENALTIES|0.0|0.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3
+2025|H1|debt_arrears|Debt & Arrears|ZRA PAYE|7342242.12|5186868.17|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3
+2025|H1|debt_arrears|Debt & Arrears|ZRA - PENALTIES|0.0|0.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3
+2025|H1|debt_arrears|Debt & Arrears|GOODS & SERVICES|208460.06|156000.0|||||||2025 BI ANNUAL PERFORMANCE REPORT.pdf|3

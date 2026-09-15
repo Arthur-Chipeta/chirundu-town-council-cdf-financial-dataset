@@ -1,0 +1,117 @@
+﻿fiscal_year|record_type|section|line_item|amount_current_zmw|amount_prior_zmw|approved_budget_zmw|actual_zmw|variance_zmw|variance_pct|is_material_variance|notes|source_document|source_page
+2023|receipt||Local Taxes|325162.0|695694.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|receipt||Fees and Charges|19134695.0|8638097.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|receipt||Licences|220900.0|183360.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|receipt||Levies|163188.0|140638.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|receipt||Permits|1522608.0|1164859.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|receipt||Local Government Equalisation Fund|8833102.0|8731522.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|receipt||Constituency Development Fund|27261470.0|23739911.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|receipt||Other Grants|12020.0|277720.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|receipt||Borrowings|0.0|0.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|receipt||Commercial Venture|77959.0|0.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|receipt||Other Receipts|317359.0|410627.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|payment||Personal Emoluments|14807445.0|11683871.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|payment||Use of Goods and Services|15921998.0|12865891.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|payment||Financial Charges|0.0|0.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|payment||Social Benefits|9500657.0|0.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|payment||Non-financial Assets Acquisition|15097519.0|3099650.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|payment||Financial Assets|5964128.0|44055.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|payment||Loan Repayments|0.0|0.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|payment||Other Payments|0.0|660413.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|11
+2023|budget_vs_actual|Receipt|Local Taxes|||450730.0|325162.0|-125568.0|-28.0|True||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12
+2023|budget_vs_actual|Receipt|Fees and Charges|||12154054.0|19134695.0|6980641.0|57.0|True||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12
+2023|budget_vs_actual|Receipt|Licences|||323550.0|220900.0|-102650.0|-32.0|True||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12
+2023|budget_vs_actual|Receipt|Levies|||141750.0|163188.0|21438.0|15.0|False||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12
+2023|budget_vs_actual|Receipt|Permits|||1920300.0|1522608.0|-397692.0|-21.0|True||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12
+2023|budget_vs_actual|Receipt|Local Government Equalisation Fund|||9420695.0|8833102.0|-587593.0|-6.0|False||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12
+2023|budget_vs_actual|Receipt|Constituency Development Fund|||28300000.0|27261470.0|-1038530.0|-4.0|False||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12
+2023|budget_vs_actual|Receipt|Other Grants|||150000.0|12020.0|-137980.0|0.0|False||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12
+2023|budget_vs_actual|Receipt|Commercial Venture|||0.0|77958.0|77958.0|0.0|False||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12
+2023|budget_vs_actual|Receipt|Other Receipts|||204686.0|317360.0|112674.0|55.0|True||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12
+2023|budget_vs_actual|Payment|Personal Emoluments|||13087048.0|14807445.0|1720397.0|13.0|False||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12
+2023|budget_vs_actual|Payment|Use of Goods and Services|||11359006.0|15921998.0|4562992.0|40.0|True||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12
+2023|budget_vs_actual|Payment|Social Benefits|||7527800.0|9500657.0|1972857.0|26.0|True||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12
+2023|budget_vs_actual|Payment|Non-Financial Assets Acquisition|||17865711.0|15097519.0|-2768192.0|-15.0|False||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12
+2023|budget_vs_actual|Payment|Financial Assets|||3226200.0|5964128.0|2737928.0|85.0|True||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|12
+2023|lgef|LGEF Monthly Funding|January|741458.69|765413.72|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25
+2023|lgef|LGEF Monthly Funding|February|697977.18|673659.15|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25
+2023|lgef|LGEF Monthly Funding|March|722309.19|701393.12|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25
+2023|lgef|LGEF Monthly Funding|April|737309.19|731854.2|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25
+2023|lgef|LGEF Monthly Funding|May|745000.77|750228.84|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25
+2023|lgef|LGEF Monthly Funding|June|738250.77|752048.14|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25
+2023|lgef|LGEF Monthly Funding|July|749000.75|739548.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25
+2023|lgef|LGEF Monthly Funding|August|749000.77|746048.13|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25
+2023|lgef|LGEF Monthly Funding|September|750809.0|746048.13|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25
+2023|lgef|LGEF Monthly Funding|October|749000.77|694905.6|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25
+2023|lgef|LGEF Monthly Funding|November|708675.52|735410.55|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25
+2023|lgef|LGEF Monthly Funding|December|744309.16|694964.58|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25
+2023|lgef|LGEF Summary|Operational Expenditure (80%)|7066482.0|6985218.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25
+2023|lgef|LGEF Summary|Capital Expenditure (20%)|2377040.0|1746304.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25
+2023|lgef|LGEF Summary|LGEF - Total Funding|8833102.0|8731522.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|25
+2023|cdf|Funding|Chirundu Constituency Funding|27261470.0|23739911.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26
+2023|cdf|Other Sources|Other CDF Sources|241963.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26
+2023|cdf|Infrastructure Development|Construction of Primary Schools|5878137.0|1478332.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26
+2023|cdf|Infrastructure Development|Construction of Secondary Schools|85000.0|85000.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26
+2023|cdf|Infrastructure Development|Construction of Bridges|66829.0|153118.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26
+2023|cdf|Infrastructure Development|Construction of Health Post|571208.0|250005.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26
+2023|cdf|Infrastructure Development|Construction of Boreholes|2415981.0|564332.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26
+2023|cdf|Infrastructure Development|Construction of Staff House|902984.0|250005.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26
+2023|cdf|Infrastructure Development|Construction of Feeder Roads|599899.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26
+2023|cdf|Infrastructure Development|Purchase of School Desks|2017930.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26
+2023|cdf|Youth and Women Empowerment|Youth and Women Empowerment Grant|2118970.0|960000.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26
+2023|cdf|Youth and Women Empowerment|Youth and Women Loans|5964128.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26
+2023|cdf|Secondary & Skills Bursaries|Secondary Boarding Schools and Skills Dev Bursaries|7381687.0|1509698.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26
+2023|cdf|Administrative Costs|CDF Administration|2925949.0|1240890.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|26
+2023|revenue_detail|Local Taxes|Residential Rates|196627.0|62048.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|21
+2023|revenue_detail|Local Taxes|Industrial / Commercial Rates|77650.0|602111.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|21
+2023|revenue_detail|Local Taxes|Hospitality||5400.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|21
+2023|revenue_detail|Local Taxes|Personal Levy|50885.0|26135.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|21
+2023|revenue_detail|Fees and Charges|Consent Fees|2050.0|50.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Survey Fees|85600.0|60800.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Building Inspection Fees|10900.0|5800.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Plan Scrutiny Fees|25043.0|13893.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Application Form Fees|119860.0|177390.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Search Fees|100.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Market Fees|26972.0|157582.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Parking Fees|17835414.0|7414868.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Bus Station Fees|20460.0|7154.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Affidavit Fees|500.0|820.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Refuse Disposal Fees|68386.0|21550.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Notice of Marriage|11090.0|15660.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Abbattoir/Meat Inspection Fees|142.0|1085.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Communication Mast Levy|29330.0|10000.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Land Record|3000.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Billboard and Banner|47960.0|29550.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Lease of Council Transport|130050.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Illegal Vending Fees|450.0|450.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Penalties|68671.0|84470.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Change of Land Use|19000.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Ntemba Fees|1400.0|11800.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Truck Parking|64950.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Registration of Clubs and Societies|104090.0|64950.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Ablution Fees|106123.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Fees and Charges|Electricity & Water Connections|5805.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Land Development Charges|Service Charges - Residential Plots|312500.0|253400.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Land Development Charges|Service Charges - Industrial Plots|59950.0|110554.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|22
+2023|revenue_detail|Licences|Occupancy Licence|8000.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|23
+2023|revenue_detail|Licences|Hawkers Licence|6100.0|2100.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|23
+2023|revenue_detail|Licences|Lodger Licence|5400.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|23
+2023|revenue_detail|Licences|Liquor Licence|115300.0|61525.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|23
+2023|revenue_detail|Licences|Firearm and Ammunition Licence|19950.0|22400.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|23
+2023|revenue_detail|Licences|Petroleum Licence|66130.0|87200.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|23
+2023|revenue_detail|Licences|Dog Licence|20.0|7085.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|23
+2023|revenue_detail|Levies|Livestock Levy|21590.0|22310.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24
+2023|revenue_detail|Levies|Fish Levy|150.0|1031.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24
+2023|revenue_detail|Levies|Charcoal Levy|55800.0|42843.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24
+2023|revenue_detail|Levies|Sand Levy|39786.0|27060.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24
+2023|revenue_detail|Levies|Crop Levy|43255.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24
+2023|revenue_detail|Levies|Miscellaneous Levies|2607.0|45893.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24
+2023|revenue_detail|Permits|Health Permit|229570.0|82925.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24
+2023|revenue_detail|Permits|Burial Permits and Grave Sites|5198.0|2200.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24
+2023|revenue_detail|Permits|Fire Certificates|358290.0|176225.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24
+2023|revenue_detail|Permits|Extension of Business Hours Permits|12764.0|13900.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24
+2023|revenue_detail|Permits|Public Permits (Social Gatherings)|8650.0|2134.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24
+2023|revenue_detail|Permits|Distributor Permit|69450.0||||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24
+2023|revenue_detail|Permits|Herbalist Permit|870.0|870.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24
+2023|revenue_detail|Permits|Business Permit|829316.0|882125.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24
+2023|revenue_detail|Permits|Other Permits|8500.0|4480.0|||||||Financial-Statement-2023-Signed-by-Council-Auditor-General.pdf|24
