@@ -1,7 +1,14 @@
-# Version 2 contribution record
+# Version 4 contribution record
 
-- Assigned member: Joshua Kamunda
-- Work package: Approved CDF project OCR, cleaning and export
-- Reviewable artifacts: Adds section 3, approved CDF project tables for 2022–2026, OCR evidence and the recognition model.
-- Evidence: The reference assignment submission records Joshua's local Git commit `1a2b5ca` for extraction and cleaning. Arthur's `40b3392` combined the annual export.
-- Status: Participation is supported by the cited local commit record.
+- Assigned member: Member 4 — name pending
+- Work package: Performance and project-progress extraction
+- Reviewable artifacts: Adds sections 6–7, performance and project-progress tables, and saved performance extraction evidence.
+- Evidence: This folder records an assigned, reviewable work package. No personal authorship evidence was available for this member.
+- Status: Participation remains unconfirmed. The member should review or amend these artifacts, then add their name and a traceable commit or signed note describing their actual work.
+
+Member confirmation (complete only after personally reviewing or changing the work):
+
+- Name: 
+- Actual work completed or corrections made: 
+- Commit or signed note reference: 
+- Date: 
